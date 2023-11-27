@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="root@123.125.240.150:25943">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/projects/ChatGLM-6B" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@123.125.240.150:41243">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/projects/ChatGLM-6B" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
